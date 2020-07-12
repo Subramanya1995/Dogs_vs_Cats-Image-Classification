@@ -1,7 +1,7 @@
 # Dogs_vs_Cats-Image-Classification
-Classifying images with different CNN architectures like VGG, Inception. 
-Used techniques like Transfer Learning, Image Augmentation, Out-of-Core Learning. 
-Data : https://www.kaggle.com/c/dogs-vs-cats/data
+    Classifying images with different CNN architectures like VGG, Inception. 
+    Used techniques like Transfer Learning, Image Augmentation, Out-of-Core Learning. 
+    Data : https://www.kaggle.com/c/dogs-vs-cats/data
 
 # System Specs: Lenovo Y740 17"
     Memory: 16 GB
