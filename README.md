@@ -12,7 +12,7 @@ GPU: RTX 2070 Max-Q (8 GB)
 python = 3.7 (Anaconda)
 Tensorflow-gpu = 2.1.0
 
-<h4> Feel Free to try different architectures. </h4>
-# Any suggestions to develop models are welcome.
-# If you have trouble following along this notebook let me know.
-# Hope this notebook was of some use to you. 
+<h4>Feel Free to try different architectures.</h4>
+<h4> Any suggestions to develop models are welcome.</h4>
+<h4>If you have trouble following along this notebook let me know.</h4>
+<h4>Hope this notebook was of some use to you.</h4>
