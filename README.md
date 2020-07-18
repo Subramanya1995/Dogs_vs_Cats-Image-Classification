@@ -11,6 +11,8 @@
     python = 3.7 (Anaconda)
     Tensorflow-gpu = 2.1.0
 
+<h4>For better readability download the folder 'DogsCatshtml'. 
+    It contains html file which doesn't require you to open Jupyter Notebook/Anaconda Navigator</h4>
 <h4>Feel Free to try different architectures.</h4>
 <h4> Any suggestions to develop models are welcome.</h4>
 <h4>If you have trouble following along this notebook let me know.</h4>
